@@ -8,6 +8,7 @@ public class Operacion {
 //      @return Array de String cada componenete sera una fraccion de la cadena otorgada.
 
     public String[] separar(String oracion){
+     //prueba de github
       String[] resultado = oracion.split("-");
       return resultado;
 }
